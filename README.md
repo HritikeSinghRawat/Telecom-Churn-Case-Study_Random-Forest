@@ -13,3 +13,5 @@ The ‘good’ phase: In this phase, the customer is happy with the service and 
 The ‘action’ phase: The customer experience starts to sore in this phase.
 The ‘churn’ phase: In this phase, the customer is said to have churned.
 We are working over a four-month window, the first two months are the ‘good’ phase, the third month is the ‘action’ phase, while the fourth month is the ‘churn’ phase
+
+Telecom Churn Data: https://www.kaggle.com/code/hritikesinghrawat/telecom-churn-case-study/data?select=telecom_churn_data.csv
